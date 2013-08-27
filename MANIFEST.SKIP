@@ -1,7 +1,7 @@
 .cvsignore
 .releaserc
 .lwpcookies
-Tie-Cycle-.*
+Tie-.*
 CVS
 blib
 \.*bak
