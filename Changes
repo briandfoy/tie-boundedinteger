@@ -1,5 +1,8 @@
 # Changes for Tie::BoundedInteger
 
+1.03 - Sat Aug 16 17:35:29 2014
+	* Adjust docs
+
 1.02 - Fri Jan  3 12:17:00 2014
 	* Remove MYMETA
 
