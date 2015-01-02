@@ -5,7 +5,7 @@ use Carp qw(croak);
 
 use vars qw( $VERSION );
 
-$VERSION = '1.002';
+$VERSION = '1.003';
 
 sub TIESCALAR {
 	my $class = shift;
@@ -54,7 +54,8 @@ Tie::BoundedInteger - Limit the magnitude of a number in a scalar
 =head1 DESCRIPTION
 
 You use C<Tie::BoundedInteger> limits the magnitude of a scalar by
-using the C<tie> mechanism.
+using the C<tie> mechanism. This is mostly a demonstration module that
+shows how C<tie> works.
 
 =head1 SOURCE AVAILABILITY
 
@@ -68,7 +69,7 @@ brian d foy, C<< <bdfoy@cpan.org> >>
 
 =head1 COPYRIGHT AND LICENSE
 
-Copyright 2005-2013, brian d foy, All rights reserved
+Copyright 2005-2014, brian d foy, All rights reserved
 
 This software is available under the same terms as perl.
 
