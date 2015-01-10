@@ -1,10 +1,12 @@
 require 5.008;
+
+package Tie::BoundedInteger;
 use strict;
 use warnings;
 
 use File::Spec::Functions qw(catfile);
 
-my $module    = 'Tie::BoundedInteger';
+my $module    = __PACKAGE__;
 ( my $dist = $module ) =~ s/::/-/g;
 
 my $github    = 'https://github.com/briandfoy/tie-boundedinteger';
