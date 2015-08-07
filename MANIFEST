@@ -1,6 +1,7 @@
 Changes
 examples/fives.pl
 examples/README
+INSTALL.SKIP
 lib/Tie/BoundedInteger.pm
 LICENSE
 Makefile.PL
