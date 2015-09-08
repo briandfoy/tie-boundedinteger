@@ -39,6 +39,8 @@ sub STORE {
 
 __END__
 
+=encoding utf8
+
 =head1 NAME
 
 Tie::BoundedInteger - Limit the magnitude of a number in a scalar
