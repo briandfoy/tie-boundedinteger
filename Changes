@@ -1,5 +1,8 @@
 Revision history for Perl module Tie::BoundedInteger
 
+1.004 2015-11-18T04:32:58Z
+	* Adjust MANIFEST
+
 1.02 - 2014-01-03
 	* Remove MYMETA
 
