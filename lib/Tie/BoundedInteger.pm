@@ -5,7 +5,7 @@ use Carp qw(croak);
 
 use vars qw( $VERSION );
 
-$VERSION = '1.003';
+$VERSION = '1.004';
 
 sub TIESCALAR {
 	my $class = shift;
