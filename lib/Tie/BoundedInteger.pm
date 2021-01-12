@@ -45,9 +45,7 @@ Tie::BoundedInteger - Limit the magnitude of a number in a scalar
 
 =head1 SYNOPSIS
 
-	use v5.10.1;
 	use Tie::BoundedInteger;
-
 	tie my $bounded, 'Tie::BoundedInteger', $min, $max;
 
 
