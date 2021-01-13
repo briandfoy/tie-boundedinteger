@@ -1,5 +1,8 @@
 Revision history for Perl module Tie::BoundedInteger
 
+1.006 2021-01-13T04:59:40Z
+	* Freshen distro, take out Travis CI, add Github Actions
+
 1.005 2018-05-21T13:22:03Z
 	* Clarify that it's the Artistic License 2.0.
 
