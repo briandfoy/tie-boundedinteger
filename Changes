@@ -1,5 +1,8 @@
 Revision history for Perl module Tie::BoundedInteger
 
+1.007 2022-08-08T19:03:17Z
+	* No big news - just a maintenance release
+
 1.007 2022-02-18T22:39:02Z
 	* Update distro, complete LICENSE file
 
