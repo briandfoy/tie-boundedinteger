@@ -17,5 +17,5 @@ message: The GitHub page for this module provides formatted citations
 repository-code: https://github.com/briandfoy/tie-boundedinteger
 title: The Tie::BoundedInteger Perl module
 type: software
-version: '1.071'
+version: '1.073'
 
